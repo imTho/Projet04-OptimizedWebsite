@@ -1,5 +1,5 @@
 # [Formation OpenClassRooms](https://openclassrooms.com/fr/paths/185-developpeur-web)
-## Projet04-La chouette agence - Optimiser la visibilité d’un site web
+## Projet04 - La chouette agence - Optimiser la visibilité d’un site web
 
 [Résultat final](https://imtho.github.io/Projet04-OptimizedWebsite/)
 
