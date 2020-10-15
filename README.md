@@ -3,6 +3,12 @@
 
 [Résultat final](https://imtho.github.io/Projet04-OptimizedWebsite/)
 
+Analyse avant otpimisation :
+![](avant-opti.png)
+
+Analyse après otpimisation :
+![](apres-opti.png)
+
 ### Compétences professionnelles :
 
 - Réaliser une veille portant sur les bonnes pratiques en développement web
