@@ -3,11 +3,11 @@
 
 [Résultat final](https://imtho.github.io/Projet04-OptimizedWebsite/)
 
-Analyse avant otpimisation :
-![](avant-opti.png)
+Analyse avant optimisation :
+![](avant-opti.PNG)
 
-Analyse après otpimisation :
-![](apres-opti.png)
+Analyse après optimisation :
+![](apres-opti.PNG)
 
 ### Compétences professionnelles :
 
